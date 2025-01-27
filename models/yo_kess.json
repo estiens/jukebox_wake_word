@@ -4,7 +4,7 @@
     "author": "estiens",
     "trained_languages": ["en"],
     "website": "https://github.com/estiens",
-    "model": "quant_yo_kess.tflite",
+    "model": "yo_kess.tflite",
     "version": 2,
     "micro": {
       "probability_cutoff": 0.95,
