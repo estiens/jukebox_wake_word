@@ -4,13 +4,13 @@
     "author": "estiens",
     "trained_languages": ["en"],
     "website": "https://github.com/estiens",
-    "model": "https://github.com/estiens/jukebox_wake_word/blob/main/yo_kess.tflite",
+    "model": "yo_kess.tflite",
     "version": 2,
     "micro": {
       "probability_cutoff": 0.95,
       "sliding_window_size": 5,
       "feature_step_size": 10,
-      "tensor_arena_size": 45720,
+      "tensor_arena_size": 25000,
       "minimum_esphome_version": "2024.7"
     }
   }
