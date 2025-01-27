@@ -2,6 +2,8 @@
     "type": "micro",
     "wake_word": "yo kess",
     "author": "estiens",
+    "trained_languages": ["en"],
+    "website": "https://github.com/estiens",
     "model": "https://github.com/estiens/jukebox_wake_word/raw/refs/heads/main/yo_kess.tflite",
     "version": 2,
     "micro": {
