@@ -1,7 +1,8 @@
 {
     "type": "micro",
     "wake_word": "yo kess",
-    "model": "yo_kess.tflite",
+    "author": "estiens",
+    "model": "https://github.com/estiens/jukebox_wake_word/raw/refs/heads/main/yo_kess.tflite",
     "version": 2,
     "micro": {
       "probability_cutoff": 0.97,
