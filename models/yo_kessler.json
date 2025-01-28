@@ -1,6 +1,6 @@
 {
     "type": "micro",
-    "wake_word": "yo kess",
+    "wake_word": "yo kessler",
     "author": "estiens",
     "trained_languages": ["en"],
     "website": "https://github.com/estiens",
