@@ -1,0 +1,18 @@
+{
+    "type": "micro",
+    "wake_word": "yo kess",
+    "author": "estiens",
+    "trained_languages": ["en"],
+    "website": "https://github.com/estiens",
+    "model": "yo_kessler.tflite",
+    "version": 2,
+    "micro": {
+      "probability_cutoff": 0.90,
+      "sliding_window_size": 5,
+      "feature_step_size": 10,
+      "tensor_arena_size": 49152,
+      "minimum_esphome_version": "2024.7"
+    }
+  }
+  
+  
