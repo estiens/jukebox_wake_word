@@ -14,8 +14,5 @@
     "feature_step_size": 10,
     "tensor_arena_size": 48000,
     "minimum_esphome_version": "2024.7.0"
-  },
-  "training_type": "dual_wake_word",
-  "model_description": "Dual wake word model trained with burning_man augmentation",
-  "training_split": "80/20"
+  }
 }
