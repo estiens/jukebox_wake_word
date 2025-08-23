@@ -3,7 +3,7 @@
   "wake_word": "hey_glitch_cube_hey_cube",
   "author": "Burning Man Wake Word Trainer",
   "website": "https://github.com/estiens/wakeword_trainer",
-  "model": "hey_glitch_cube_hey_cube.tflite",
+  "model": "glitch_cube_dev.tflite",
   "trained_languages": [
     "en"
   ],
