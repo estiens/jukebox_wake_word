@@ -1,0 +1,25 @@
+{
+  "type": "micro",
+  "wake_word": "hey_glitch_cube_high_cube",
+  "author": "Burning Man Wake Word Trainer",
+  "website": "https://github.com/estiens/wakeword_trainer",
+  "model": "hey_glitch_cube_high_cube.tflite",
+  "trained_languages": [
+    "en"
+  ],
+  "version": 2,
+  "micro": {
+    "probability_cutoff": 0.95,
+    "sliding_window_size": 5,
+    "feature_step_size": 10,
+    "tensor_arena_size": 48000,
+    "minimum_esphome_version": "2024.7.0"
+  },
+  "training_metadata": {
+    "positive_samples": 3378,
+    "negative_samples": 0,
+    "training_type": "enhanced_with_negatives",
+    "workspace": "workspace/run_20250823_100352_hey_glitch_cube",
+    "run_name": "run_20250823_100352_hey_glitch_cube"
+  }
+}
