@@ -9,17 +9,10 @@
   ],
   "version": 2,
   "micro": {
-    "probability_cutoff": 0.95,
+    "probability_cutoff": 0.85,
     "sliding_window_size": 5,
     "feature_step_size": 10,
     "tensor_arena_size": 48000,
     "minimum_esphome_version": "2024.7.0"
-  },
-  "training_metadata": {
-    "positive_samples": 2736,
-    "negative_samples": 0,
-    "training_type": "enhanced_with_negatives",
-    "workspace": "workspace/run_20250824_162945_glitch_cube",
-    "run_name": "run_20250824_162945_glitch_cube"
   }
 }
